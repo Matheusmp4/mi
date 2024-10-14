@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-materiais.ao4.com.br	TRUE	/fee	FALSE	1999999999	__rd_experiment_version	index
-
